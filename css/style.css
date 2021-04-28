@@ -1,0 +1,175 @@
+
+.abuelo{
+
+    height: 40em;
+    width: 40em;
+    background-color:lightgrey;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.padre1{
+
+    height: 40em;
+    width: 20em;
+   
+   
+}
+
+.padre2{
+
+    height: 40em;
+    width: 20em;
+    background-color: lightsalmon;
+    
+}
+
+.hijo1{
+
+    height: 20em;
+    width: 20em;
+    background-color: rgb(172, 149, 49) ;
+    
+    border: whitesmoke 0.3em solid;
+    
+
+}
+
+.hijo2{
+
+    height: 20em;
+    width: 20em;
+    background-color: maroon;
+
+    display: flex;
+    flex-direction: row;
+    border: whitesmoke 0.3em solid;
+}
+
+.hijo3{
+
+    height: 20em;
+    width: 20em;
+    background-color: maroon;
+
+    display: flex;
+    flex-direction: row;
+    border: whitesmoke 0.3em solid;
+
+
+}
+
+.hijo4{
+
+    height: 20em;
+    width: 20em;
+    background-color: rgb(172, 149, 49);
+
+    display: flex;
+    flex-direction: row;
+    border: whitesmoke 0.3em solid;
+
+}
+
+.nieto1{
+
+    height: 10em;
+    width: 10em;
+    background-color: white;
+
+    
+}
+
+.nieto2{
+
+    height: 10em;
+    width: 10em;
+    
+
+}
+
+.nieto3{
+
+    height: 10em;
+    width: 10em;
+    background-color: maroon;
+
+}
+.nieto4{
+
+    height: 10em;
+    width: 10em;
+
+
+}
+
+.nieto5{
+
+    height: 10em;
+    width: 20em;
+    background-color: maroon;
+
+}
+
+.bisnieto1{
+
+    height: 10em;
+    width: 10em;
+    background-color: rgb(172, 149, 49);
+}
+
+.bisnieto2{
+
+    height: 10em;
+    width: 10em;
+    
+}
+
+.bisnieto3{
+
+    height: 10em;
+    width: 10em;
+    background-color: maroon;
+    
+}
+
+.bisnieto4{
+
+    height: 10em;
+    width: 10em;
+    background-color: rgb(172, 149, 49);
+    
+}
+
+.bisnieto5{
+
+    height: 10em;
+    width: 10em;
+    background-color: rgb(172, 149, 49) ;
+}
+
+.bisnieto6{
+
+    height: 10em;
+    width: 10em;
+    background-color: maroon;
+
+}
+
+.bisnieto7{
+
+    height: 10em;
+    width: 10em;
+    
+}
+
+.bisnieto8{
+
+    height: 10em;
+    width: 10em;
+    background-color: rgb(172, 149, 49);
+    
+}
